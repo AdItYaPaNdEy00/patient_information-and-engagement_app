@@ -1,4 +1,5 @@
 streamlit
+
 transformers
 torch
-sqlite3-binary
+pandas
